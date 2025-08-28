@@ -1,0 +1,14 @@
+F:\EstruturaSequencialUDEMY\bin\Debug\net9.0\EstruturaSequencialUDEMY.exe
+F:\EstruturaSequencialUDEMY\bin\Debug\net9.0\EstruturaSequencialUDEMY.deps.json
+F:\EstruturaSequencialUDEMY\bin\Debug\net9.0\EstruturaSequencialUDEMY.runtimeconfig.json
+F:\EstruturaSequencialUDEMY\bin\Debug\net9.0\EstruturaSequencialUDEMY.dll
+F:\EstruturaSequencialUDEMY\bin\Debug\net9.0\EstruturaSequencialUDEMY.pdb
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.GeneratedMSBuildEditorConfig.editorconfig
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.AssemblyInfoInputs.cache
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.AssemblyInfo.cs
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.csproj.CoreCompileInputs.cache
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.dll
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\refint\EstruturaSequencialUDEMY.dll
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.pdb
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.genruntimeconfig.cache
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\ref\EstruturaSequencialUDEMY.dll
