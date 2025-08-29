@@ -12,3 +12,4 @@ F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\refint\EstruturaSequencialUDEMY.dll
 F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.pdb
 F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.genruntimeconfig.cache
 F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\ref\EstruturaSequencialUDEMY.dll
+F:\EstruturaSequencialUDEMY\obj\Debug\net9.0\EstruturaSequencialUDEMY.sourcelink.json
